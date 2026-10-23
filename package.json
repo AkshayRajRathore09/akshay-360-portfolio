@@ -1,0 +1,19 @@
+{
+  "name": "akshay-360-virtual-tour",
+  "version": "1.0.0",
+  "description": "Interactive scroll-driven 360° virtual tour portfolio for Akshay",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo \"Build complete: Static site ready for Vercel deployment\""
+  },
+  "keywords": [
+    "portfolio",
+    "360-virtual-tour",
+    "scroll-driven",
+    "canvas-animation"
+  ],
+  "author": "Akshay",
+  "license": "MIT"
+}

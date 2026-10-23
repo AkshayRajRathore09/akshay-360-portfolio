@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment & Local Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel Project State
+.vercel
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Raw Archives & Temporary Extraction Zips
+*.zip
+*.tar.gz
+*.rar
+
+# IDE & Editor Directories
+.vscode/
+.idea/
+.gemini/
+*.log
